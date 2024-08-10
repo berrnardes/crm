@@ -1,0 +1,22 @@
+
+# Modules
+server/node_modules
+client/node_modules
+
+# ENV
+server/.env
+client/.env  
+
+# Next
+client/.next
+
+
+# typescript
+server/*.tsbuildinfo
+server/next-env.d.ts
+
+client/*.tsbuildinfo
+client/next-env.d.ts
+
+#Vercel 
+client/.vercel
